@@ -29,7 +29,7 @@
     "rollup-plugin-hot": "^0.0.22",
     "rollup-plugin-postcss-hot": "^0.0.1",
     "rollup-plugin-svelte-hot": "^0.7.0",
-    "svelte": "^3.22.0",
+    "svelte": "^3.49.0",
     "svench": "^0.0.8"
   },
   "files": [
